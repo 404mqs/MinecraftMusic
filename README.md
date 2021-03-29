@@ -1,7 +1,7 @@
 # MinecraftMusic
 Play the Minecraft Music in your Unturned Server!
 
-# Songs ID:
+# Songs ID
 3805 - Aria Math
 
 3806 - Blinding Spots
